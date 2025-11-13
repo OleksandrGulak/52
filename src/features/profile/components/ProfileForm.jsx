@@ -57,7 +57,7 @@ export default function ProfileForm() {
           <div style={{ marginBottom: '1rem', textAlign: 'center' }}>
             <label htmlFor="avatar">
               <img
-                src={avatarPreview || '/assets/images/avatars/avatar.png'}
+                src={avatarPreview || './assets/images/avatars/avatar.png'}
                 alt="avatar"
                 style={avatarStyle}
               />
