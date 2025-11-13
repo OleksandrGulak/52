@@ -20,6 +20,7 @@
 - Компонентний підхід: ProductList, CartPage, Header, Footer, Button
 
 ## 📁 Структура
+```
 src/
 │   App.jsx
 │   index.css
@@ -128,7 +129,7 @@ src/
 └───utils
         constants.js
         helpers.js
-
+```
 
 
 ## 📦 Встановлення та запуск
